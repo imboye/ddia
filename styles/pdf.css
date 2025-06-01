@@ -1,0 +1,9 @@
+/* 确保 KaTeX 使用 Times New Roman 并匹配正文大小（12pt） */
+.katex {
+    font-size: 12pt !important;
+}
+  
+.katex * {
+    font-size: 12pt !important;
+}
+  
